@@ -3,19 +3,19 @@ pgmmcfe
 
 Postgres / mmcFE based mining pool software.
 
--PostgreSQL Database
--Downed Worker Notification
--Time Zone Support
--Uptime Graphs, Individual and Pool
--Auto or Manual Payouts
--Accounting Grade Cross-Method Database Block tracking
--Idempotent Backend Jobs
--Variable Reward Support
--Adjustable PPLNS Window Support
--Variable "Confirm Count" Support
--Variable "Transaction Fee" Support
--Easily add new "Tickers"
--Adjustable Job Scheduling
+	- PostgreSQL Database
+	- Downed Worker Notification
+	- Time Zone Support
+	- Uptime Graphs, Individual and Pool
+	- Auto or Manual Payouts
+	- Accounting Grade Cross-Method Database Block tracking
+	- Idempotent Backend Jobs
+	- Variable Reward Support
+	- Adjustable PPLNS Window Support
+	- Variable "Confirm Count" Support
+	- Variable "Transaction Fee" Support
+	- Easily add new "Tickers"
+	- Adjustable Job Scheduling
 
 Development
 -----------
